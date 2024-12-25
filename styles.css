@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+body {
+  font-family: "poppins", Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  text-align: center;
+  font-weight: bold;
+}
+
+.inicio {
+  background-color: #d6a8c4;
+  padding: 20px;
+  border-bottom: 2px solid #f560c1;
+}
+
+#titulo {
+  color: #801c67;
+  font-size: 2em;
+  margin: 0;
+}
+
+#namorada {
+  color: #db2323;
+  font-size: 1.5em;
+  margin: 5px 0;
+}
+
+.conteudo {
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.conteudo h1 {
+  color: #281587;
+  font-size: 1.8em;
+}
+
+.conteudo p {
+  color: #680a0a;
+  font-size: 1.2em;
+}
+
+#butao {
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #32cd32;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+#butao:hover {
+  background-color: #228b22;
+}
+#peru {
+  visibility: hidden;
+  max-width: 300px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+#link {
+  text-decoration: none;
+  color: white;
+  background-color: purple;
+  padding: 10px;
+  border-radius: 10px;
+}
+#link:hover {
+  background-color: rgb(73, 16, 73);
+  transition: background-color 0.5s ease;
+}
+h1 {
+  margin-bottom: 40px;
+  margin-top: 40px;
+}
+#brincadeira {
+  color: rgb(15, 161, 15);
+}
